@@ -35,12 +35,3 @@ Bug e idee: [apri una segnalazione](https://github.com/IU1WXY/radiante-releases/
 Se Radiante ti è utile puoi sostenere il lavoro con un'offerta su [PayPal](https://paypal.me/talorno).
 
 *Bugs and ideas: [open an issue](https://github.com/IU1WXY/radiante-releases/issues) or write to giovanni@iu1wxy.com. If you find Radiante useful you can support the work on [PayPal](https://paypal.me/talorno).*
-
-## Componenti di terze parti · Third-party components
-
-- [Qt 6](https://www.qt.io) — LGPL v3, usato come librerie dinamiche (le DLL nella cartella del programma si possono sostituire)
-- [OpenNEC](https://github.com/maurymarkowitz/OpenNEC) — MIT
-- [Monocypher](https://monocypher.org) — CC0 / BSD-2
-- Runtime GCC/MinGW-w64 — GPL con eccezione per le librerie runtime
-
-Radiante © Giovanni Ricciardi IU1WXY. Il codice sorgente di Radiante non è pubblicato. · *Radiante's own source code is not published.*
